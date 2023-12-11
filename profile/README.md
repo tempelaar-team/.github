@@ -1,4 +1,6 @@
 # Welcome to the Tempelaar Team Github!
 Group website: https://tempelaar.chem.northwestern.edu/
 
-Here we put our codes for each paper. Each repository is for one paper. See README in each repository for details.
+Here we put codes developed in our group. See the Navigation section below to find the code. See README in each repository for details.
+
+#Navigation
