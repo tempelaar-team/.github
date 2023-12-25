@@ -2,9 +2,9 @@
 Group website: https://tempelaar.chem.northwestern.edu/  
 Google Scholar: https://scholar.google.com/citations?user=S4u5XjUAAAAJ
 
-Here we put codes developed in our group. 
-See the Navigation section below to find the code. 
-See README in each repository for details.
+Here we put codes developed in our group.  
+See the Navigation section below to find the code.  
+See README in each repository for details.  
 
 ## Navigation
 There are three ways to find the code: 
