@@ -7,5 +7,5 @@ Here we put codes developed in our group. See the Navigation section below to fi
 ## Navigation
 There are three ways to find the code: 
 1. See the [publication list and the associated repository](publication.md)
-1. See the repository list
-1. Using the search function in GitHub
+1. See the [repository list](repository_list.md)
+1. Use the search function in GitHub
