@@ -8,6 +8,6 @@ See README in each repository for details.
 
 ## Navigation
 There are three ways to find the code: 
-1. See the [publication list and the associated repository](profile/publication.md)
-1. See the [repository list](profile/repository_list.md)
+1. See the [publication list and the associated repository](https://github.com/tempelaar-team/.github/blob/main/profile/publication.md)
+1. See the [repository list](https://github.com/tempelaar-team/.github/blob/main/profile/repository_list.md)
 1. Use the search function in GitHub
