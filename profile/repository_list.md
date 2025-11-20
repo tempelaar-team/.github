@@ -1,6 +1,8 @@
 ## Repository list
+1. [FocusedDCMF](https://github.com/tempelaar-team/FocusedDCMF):
+code for "Focused Sampling for Low-Cost and Accurate Ehrenfest Modeling of Cavity Quantum Electrodynamics". [*J. Chem. Theory Comput.* **2025** (accepted)](https://arxiv.org/abs/2506.21702)
 1. [MQC-Duffing](https://github.com/tempelaar-team/MQC-Duffing):
-code for "Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations". *J. Chem. Phys.* **2025** (accepted).
+code for "Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations". [*J. Chem. Phys.* **2025**, *162*, 224109](https://doi.org/10.1063/5.0266594). 
 1. [ChiralCavityFigures](https://github.com/tempelaar-team/ChiralCavityFigures):
 code for "A 2D chiral microcavity based on apparent circular dichroism". [Nat Commun 15, 3072 (2024)](https://www.nature.com/articles/s41467-024-47411-4). 
 1. [2DChiralPolACD](https://github.com/tempelaar-team/2DChiralPolACD):
