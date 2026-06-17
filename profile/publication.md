@@ -4,6 +4,8 @@
 Repository: [FocusedDCMF](https://github.com/tempelaar-team/FocusedDCMF)
 1. Hsieh, M.-H., Tempelaar, Roel. Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations. [*J. Chem. Phys.* **2025**, *162*, 224109](https://doi.org/10.1063/5.0266594). 
 Repository: [MQC-Duffing](https://github.com/tempelaar-team/MQC-Duffing)
+1. Miyazaki, K., Krotz, A., & Tempelaar, R. Mixed Quantum–Classical Dynamics under Arbitrary Unitary Basis Transformations. [*J. Chem. Theo. Comp.* **2024**, *20*, 6500](https://pubs.acs.org/doi/full/10.1021/acs.jctc.4c00555).
+Repository: [BasisRotation](https://github.com/tempelaar-team/BasisRotation)
 1. Chen, TL., Salij, A., Parrish, K.A. et al. A 2D chiral microcavity based on apparent circular dichroism. [Nat Commun 15, 3072 (2024)](https://www.nature.com/articles/s41467-024-47411-4). 
 Repository: [ChiralCavityFigures](https://github.com/tempelaar-team/ChiralCavityFigures)
 1. Salij, A.H., Goldsmith, R.H. & Tempelaar, R. Theory predicts 2D chiral polaritons based on achiral Fabry–Pérot cavities using apparent circular dichroism. [Nat Commun 15, 340 (2024)](https://www.nature.com/articles/s41467-023-44523-1).  
