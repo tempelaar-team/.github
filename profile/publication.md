@@ -2,6 +2,8 @@
 
 1. Hsieh, M.-H., Krotz, A., Tempelaar, Roel. Focused Sampling for Low-Cost and Accurate Ehrenfest Modeling of Cavity Quantum Electrodynamics. [*J. Chem. Theory Comput.* **2025**, *21*, 11860](https://doi.org/10.1021/acs.jctc.5c01639). 
 Repository: [FocusedDCMF](https://github.com/tempelaar-team/FocusedDCMF)
+1. Lin, C, Terry Weatherly, C.K., Tempelaar, Roel. Optically Addressing Circularly Polarized Vibrations in Molecules. [*J. Phys. Chem. Lett.* **2025**, *16*, 9235](https://doi.org/10.1021/acs.jpclett.5c02010).
+Repository: [QChem_analysis](https://github.com/tempelaar-team/QChem_analysis)
 1. Hsieh, M.-H., Tempelaar, Roel. Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations. [*J. Chem. Phys.* **2025**, *162*, 224109](https://doi.org/10.1063/5.0266594). 
 Repository: [MQC-Duffing](https://github.com/tempelaar-team/MQC-Duffing)
 1. Krotz, A., & Tempelaar, R. Treating geometric phase effects in nonadiabatic dynamics. [*Phys. Rev. A* **2024**, *109*, 032210](https://doi.org/10.1103/PhysRevA.109.032210).
