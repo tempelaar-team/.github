@@ -1,6 +1,6 @@
 ## Publication with associated repository (reverse chronological order)
 
-1. Hsieh, M.-H., Krotz, A., Tempelaar, Roel. Focused Sampling for Low-Cost and Accurate Ehrenfest Modeling of Cavity Quantum Electrodynamics. [*J. Chem. Theory Comput.* **2025** (accepted)](https://arxiv.org/abs/2506.21702). 
+1. Hsieh, M.-H., Krotz, A., Tempelaar, Roel. Focused Sampling for Low-Cost and Accurate Ehrenfest Modeling of Cavity Quantum Electrodynamics. [*J. Chem. Theory Comput.* **2025**, *21*, 11860](https://doi.org/10.1021/acs.jctc.5c01639). 
 Repository: [FocusedDCMF](https://github.com/tempelaar-team/FocusedDCMF)
 1. Hsieh, M.-H., Tempelaar, Roel. Mixed Quantum-Classical Dynamics Yields Anharmonic Rabi Oscillations. [*J. Chem. Phys.* **2025**, *162*, 224109](https://doi.org/10.1063/5.0266594). 
 Repository: [MQC-Duffing](https://github.com/tempelaar-team/MQC-Duffing)
